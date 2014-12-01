@@ -1,0 +1,9 @@
+2014-12-01 11:37:47,299 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Pompeii:Pompeii:0.0.1-SNAPSHOT @ /Users/jasmattu/projects/Volcano_Training/Pompeii/pom.xml.
+2014-12-01 11:37:50,252 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Pompeii/src
+2014-12-01 11:37:50,253 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Pompeii/src/test/java because it overlaps with /Pompeii/src
+2014-12-01 11:37:51,101 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Pompeii:Pompeii:0.0.1-SNAPSHOT @ /Users/jasmattu/projects/Volcano_Training/Pompeii/pom.xml.
+2014-12-01 11:37:51,183 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2014-12-01 11:37:52,919 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 11:37:52,920 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jasmattu/projects/Volcano_Training/Pompeii/src/main/resources
+2014-12-01 11:37:52,923 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-01 11:37:52,923 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/jasmattu/projects/Volcano_Training/Pompeii/src/test/resources
